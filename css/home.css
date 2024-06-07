@@ -9,7 +9,7 @@ body{
     display: grid;
     grid-template-rows: 50px;
     grid-template-columns: 150px 1fr 150px;
-    align-items: center;
+    align-items: centter;
     padding: 20px 0;
     text-align: center;
 }
