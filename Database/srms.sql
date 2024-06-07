@@ -78,7 +78,6 @@ CREATE TABLE `result` (
   `class` varchar(30) NOT NULL,
   `p1` int(3) NOT NULL,
   `p2` int(3) NOT NULL,
-  `p3` int(3) NOT NULL,
   `p4` int(3) NOT NULL,
   `p5` int(3) NOT NULL,
   `marks` int(3) NOT NULL,
