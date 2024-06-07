@@ -48,7 +48,7 @@
                 </fieldset>
             </form>
         </div>
-     <a href="index.html"><img title="Back to Home" src="images/hw.jpg  "></a>
+     <a href="index.html"><img title="Back Home" src="images/hw.jpg  "></a>
     </div>
 </body>
 </html>
